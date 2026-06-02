@@ -1,0 +1,31 @@
+# Large genomic files
+*.fastq.gz
+*.fastq
+*.bam
+*.bam.bai
+*.fa
+*.fa.fai
+*.fa.gz
+*.dict
+*.vcf.gz
+data/raw/
+data/trimmed/
+data/aligned/
+ref/
+
+# Keep small results
+!results/variants/dedup_metrics.txt
+!results/variants/filtered_snps.vcf
+!results/variants/annotated.vcf
+!results/plots/*.html
+!results/degs/
+
+# Python/R
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+
+# OS
+.DS_Store
+Thumbs.db

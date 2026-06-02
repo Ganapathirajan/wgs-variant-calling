@@ -1,0 +1,8 @@
+TrimmomaticPE: Started with arguments:
+ data/SRR098401_1.fastq.gz data/SRR098401_2.fastq.gz data/trimmed_R1.fastq.gz data/trimmed_R1_unpaired.fastq.gz data/trimmed_R2.fastq.gz data/trimmed_R2_unpaired.fastq.gz ILLUMINACLIP:/home/ganapathirajan/miniconda3/envs/variantcalling_env/share/trimmomatic/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+ILLUMINACLIP: Using adapter file from user-specified absolute path: /home/ganapathirajan/miniconda3/envs/variantcalling_env/share/trimmomatic/adapters/TruSeq3-PE.fa
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 68796416 Both Surviving: 53303031 (77.48%) Forward Only Surviving: 4030564 (5.86%) Reverse Only Surviving: 3133014 (4.55%) Dropped: 8329807 (12.11%)
+TrimmomaticPE: Completed successfully
