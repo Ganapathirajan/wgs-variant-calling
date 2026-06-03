@@ -1,4 +1,4 @@
-# P3 — Variant Calling WGS Pipeline
+# Variant Calling WGS Pipeline
 
 ![Pipeline](https://img.shields.io/badge/Pipeline-WGS%20Variant%20Calling-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
