@@ -331,20 +331,6 @@ snpEff hg38 results/variants/raw_variants.vcf \
 
 ---
 
-## P3 in Portfolio Context
-
-This is the third project in a bioinformatics NGS portfolio:
-
-| # | Project | Status |
-|---|---|---|
-| P1 | System Health Monitor (Bash) | ✅ Complete |
-| P2 | RNA-seq Differential Expression (airway dataset) | ✅ Complete |
-| **P3** | **WGS Variant Calling — NA12878** | 🔄 In Progress |
-| P4 | Metagenomics — Kraken2 + Krona (PD gut microbiome) | Planned |
-| P5 | End-to-End Bash NGS Pipeline Automator | Planned |
-
----
-
 ## References
 
 - GATK Best Practices — Broad Institute: https://gatk.broadinstitute.org/hc/en-us/articles/360035535932
